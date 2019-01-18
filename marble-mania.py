@@ -1,4 +1,5 @@
 # Jasper Shangle - ChiPy Challenge for January 17, 2019
+# https://adventofcode.com/2018/day/9
 class Marble_Game:
   center_marbles = []
   marble_value = 0
